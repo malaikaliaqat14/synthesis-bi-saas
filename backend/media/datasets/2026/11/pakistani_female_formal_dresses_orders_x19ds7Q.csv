@@ -1,0 +1,21 @@
+Order ID,Order Date,Customer Name,Customer Email,City,Product Category,Product Name,Quantity,Unit Price,Total Amount,Payment Status
+PK-ORD-7001,2026-11-01,Ayesha Khan,ayesha.khan@gmail.com,Lahore,Bridal & Heavy Formal,Embroidered Organza Maxi,1,45000,45000,Paid
+PK-ORD-7002,2026-11-02,Zainab Fatima,zainab.f@yahoo.com,Karachi,Luxury Pret,Hand-Embellished Raw Silk Pishwas,1,32000,32000,Paid
+PK-ORD-7003,2026-11-03,Maryam Nawaz,maryam.nawaz88@outlook.com,Islamabad,Formal Chiffon,Zari Work Pure Chiffon Anarkali,2,28500,57000,Paid
+PK-ORD-7004,2026-11-04,Hira Mani,hira.mani@gmail.com,Faisalabad,Luxury Velvet,Embossed Velvet Long Kurti Set,1,22000,22000,Paid
+PK-ORD-7005,2026-11-05,Sana Mir,sana.mir@hotmail.com,Rawalpindi,Festive Lawn & Jacquard,Heavily Embroidered Net Gown,1,38500,38500,Paid
+PK-ORD-7006,2026-11-06,Mahnoor Baloch,mahnoor.b@gmail.com,Peshawar,Bridal & Heavy Formal,Tissue Silk Angrakha Dress,1,48000,48000,Paid
+PK-ORD-7007,2026-11-07,Alizeh Shah,alizeh.shah@gmail.com,Multan,Luxury Pret,Sequin Embroidered Chiffon Saree,1,26000,26000,Paid
+PK-ORD-7008,2026-11-08,Kinza Hashmi,kinza.h@yahoo.com,Sialkot,Formal Chiffon,Mirror Work Pure Georgette Suit,2,19500,39000,Paid
+PK-ORD-7009,2026-11-09,Sadia Imam,sadia.imam@gmail.com,Gujranwala,Luxury Velvet,Micro Velvet Embroidered Kaftan,1,24500,24500,Paid
+PK-ORD-7010,2026-11-10,Momina Mustehsan,momina.m@gmail.com,Quetta,Bridal & Heavy Formal,Dabka Handwork Pure Silk Gharara,1,55000,55000,Paid
+PK-ORD-7011,2026-11-11,Neelam Muneer,neelam.m@outlook.com,Hyderabad,Luxury Pret,Tilla & Resham Embroidered Peplum,1,21000,21000,Paid
+PK-ORD-7012,2026-11-12,Mawra Hocane,mawra.h@gmail.com,Bahawalpur,Formal Chiffon,Cutwork Embroidered Organza Dupatta Set,2,27500,55000,Paid
+PK-ORD-7013,2026-11-13,Urwa Hocane,urwa.h@hotmail.com,Sargodha,Bridal & Heavy Formal,Banarsi Jamawar Lehenga Choli,1,62000,62000,Paid
+PK-ORD-7014,2026-11-14,Sajal Aly,sajal.aly@gmail.com,Abbottabad,Luxury Velvet,Embroidered Shawl & Velvet Peshwas,1,36000,36000,Paid
+PK-ORD-7015,2026-11-15,Yumna Zaidi,yumna.z@gmail.com,Sukkur,Festive Lawn & Jacquard,Hand-Worked Chanderi Silk Frock,1,29000,29000,Paid
+PK-ORD-7016,2026-11-16,Sarah Khan,sarah.khan@yahoo.com,Gujrat,Luxury Pret,Pearl & Gotta Work Kalidar Kurti,2,18500,37000,Paid
+PK-ORD-7017,2026-11-17,Iqra Aziz,iqra.aziz@gmail.com,Mardan,Bridal & Heavy Formal,Zardozi Embroidered Bridal Maxi,1,58000,58000,Paid
+PK-ORD-7018,2026-11-18,Ayeza Khan,ayeza.khan@gmail.com,Sahiwal,Formal Chiffon,Digital Printed Silk Gown with Kora Work,1,31000,31000,Paid
+PK-ORD-7019,2026-11-19,Maya Ali,maya.ali@outlook.com,Jhelum,Luxury Velvet,Royal Kashmiri Tilla Velvet Suit,1,34000,34000,Paid
+PK-ORD-7020,2026-11-20,Hania Aamir,hania.aamir@gmail.com,Rahim Yar Khan,Bridal & Heavy Formal,Net Mukesh Hand-Embellished Farshi Gharara,1,52000,52000,Paid

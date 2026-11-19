@@ -1,0 +1,501 @@
+Sale ID,Date,Customer,Product,Quantity,Unit Price ($),Total ($),Region
+635,2026-09-23 09:00,Nordic Horizon Labs,ML Model Deployment Engine,1,550.00,550.00,Europe
+636,2026-09-23 09:00,Nordic Horizon Labs,Realtime ETL Pipeline,2,420.00,840.00,Europe
+626,2026-09-22 11:36,Amsterdam Logistics Pro,Cloud Server Tier 2,1,240.00,240.00,Europe
+627,2026-09-22 11:36,Amsterdam Logistics Pro,Kubernetes Cluster Pro,1,480.00,480.00,Europe
+628,2026-09-22 11:36,Silicon Valley Scale Inc,Kubernetes Cluster Pro,1,480.00,480.00,North America
+629,2026-09-22 11:36,Chicago Retail Systems,Kubernetes Cluster Pro,2,480.00,960.00,North America
+630,2026-09-22 11:36,Chicago Retail Systems,CRM Suite Ultimate,2,290.00,580.00,North America
+631,2026-09-22 11:36,Chicago Retail Systems,Executive Tech Strategy,1,1200.00,1200.00,North America
+632,2026-09-22 11:36,Sao Paulo Ventures,Data Lake Connector,1,310.00,310.00,Latin America
+633,2026-09-22 11:36,Sao Paulo Ventures,Audit Trail Vault,1,260.00,260.00,Latin America
+634,2026-09-22 11:36,Sao Paulo Ventures,CRM Suite Ultimate,3,290.00,870.00,Latin America
+621,2026-09-21 11:43,Silicon Valley Scale Inc,Cloud Server Tier 2,1,240.00,240.00,North America
+622,2026-09-21 11:43,Silicon Valley Scale Inc,ML Model Deployment Engine,1,550.00,550.00,North America
+623,2026-09-21 11:43,Silicon Valley Scale Inc,Identity Guard SSO,1,150.00,150.00,North America
+624,2026-09-21 11:43,Apex Global Capital,Enterprise BI Core,1,350.00,350.00,North America
+625,2026-09-21 11:43,Dubai Future Horizons,Identity Guard SSO,1,150.00,150.00,Middle East & Africa
+617,2026-09-19 12:52,Paris Analytics Studio,Kubernetes Cluster Pro,2,480.00,960.00,Europe
+618,2026-09-19 12:52,Paris Analytics Studio,Identity Guard SSO,2,150.00,300.00,Europe
+619,2026-09-19 12:52,Boston Life Sciences,Executive Tech Strategy,3,1200.00,3600.00,North America
+620,2026-09-19 12:52,Boston Life Sciences,Cloud Server Tier 1,3,120.00,360.00,North America
+610,2026-09-18 14:46,Zurich Private Assets,DevOps Accelerator Pack,3,850.00,2550.00,Europe
+611,2026-09-18 14:46,Zurich Private Assets,Identity Guard SSO,3,150.00,450.00,Europe
+612,2026-09-18 14:46,Madrid Cyber Defense,Kubernetes Cluster Pro,1,480.00,480.00,Europe
+613,2026-09-18 14:46,Madrid Cyber Defense,Audit Trail Vault,1,260.00,260.00,Europe
+614,2026-09-18 14:46,Madrid Cyber Defense,Realtime ETL Pipeline,1,420.00,420.00,Europe
+615,2026-09-18 14:46,Zurich Private Assets,DevOps Accelerator Pack,3,850.00,2550.00,Europe
+616,2026-09-18 14:46,Zurich Private Assets,Zero-Trust Firewall,1,390.00,390.00,Europe
+609,2026-09-17 06:58,Sao Paulo Ventures,ML Model Deployment Engine,3,550.00,1650.00,Latin America
+606,2026-09-16 11:41,Amsterdam Logistics Pro,Workflow Automator,3,180.00,540.00,Europe
+607,2026-09-16 11:41,Amsterdam Logistics Pro,Zero-Trust Firewall,1,390.00,390.00,Europe
+608,2026-09-16 11:41,Amsterdam Logistics Pro,Cloud Server Tier 1,2,120.00,240.00,Europe
+604,2026-09-15 09:49,Austin Logic Works,ML Model Deployment Engine,1,550.00,550.00,North America
+605,2026-09-15 09:49,Austin Logic Works,Audit Trail Vault,2,260.00,520.00,North America
+596,2026-09-14 16:40,Seoul Data Innovations,Audit Trail Vault,3,260.00,780.00,Asia-Pacific
+597,2026-09-14 16:40,Seoul Data Innovations,Cloud Server Tier 2,1,240.00,240.00,Asia-Pacific
+598,2026-09-14 16:40,Seoul Data Innovations,Kubernetes Cluster Pro,1,480.00,480.00,Asia-Pacific
+599,2026-09-14 16:40,Tokyo Digital Nexus,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+600,2026-09-14 16:40,Tokyo Digital Nexus,Workflow Automator,1,180.00,180.00,Asia-Pacific
+601,2026-09-14 16:40,Tokyo Digital Nexus,Kubernetes Cluster Pro,1,480.00,480.00,Asia-Pacific
+602,2026-09-14 16:40,Sao Paulo Ventures,ML Model Deployment Engine,1,550.00,550.00,Latin America
+603,2026-09-14 16:40,Sao Paulo Ventures,Enterprise BI Core,3,350.00,1050.00,Latin America
+593,2026-09-12 05:42,Sydney Cloud Systems,Identity Guard SSO,1,150.00,150.00,Asia-Pacific
+594,2026-09-12 05:42,Paris Analytics Studio,Audit Trail Vault,2,260.00,520.00,Europe
+595,2026-09-12 05:42,Paris Analytics Studio,ML Model Deployment Engine,1,550.00,550.00,Europe
+590,2026-09-11 11:06,Toronto Dataworks,Zero-Trust Firewall,2,390.00,780.00,North America
+591,2026-09-11 11:06,Amsterdam Logistics Pro,Data Lake Connector,3,310.00,930.00,Europe
+592,2026-09-11 11:06,Amsterdam Logistics Pro,Zero-Trust Firewall,2,390.00,780.00,Europe
+587,2026-09-10 06:16,Santiago Tech Ventures,DevOps Accelerator Pack,1,850.00,850.00,Latin America
+588,2026-09-10 06:16,Santiago Tech Ventures,Cloud Server Tier 2,3,240.00,720.00,Latin America
+589,2026-09-10 06:16,Santiago Tech Ventures,Audit Trail Vault,1,260.00,260.00,Latin America
+586,2026-09-09 14:27,Silicon Valley Scale Inc,Identity Guard SSO,1,150.00,150.00,North America
+581,2026-09-08 12:59,Sydney Cloud Systems,Cloud Server Tier 1,2,120.00,240.00,Asia-Pacific
+582,2026-09-08 12:59,Sydney Cloud Systems,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+583,2026-09-08 12:59,Sydney Cloud Systems,Cloud Server Tier 2,1,240.00,240.00,Asia-Pacific
+584,2026-09-08 12:59,Sydney Cloud Systems,DevOps Accelerator Pack,3,850.00,2550.00,Asia-Pacific
+585,2026-09-08 12:59,Amsterdam Logistics Pro,Workflow Automator,2,180.00,360.00,Europe
+577,2026-09-07 10:10,Apex Global Capital,Cloud Server Tier 1,2,120.00,240.00,North America
+578,2026-09-07 10:10,Silicon Valley Scale Inc,Cloud Server Tier 2,3,240.00,720.00,North America
+579,2026-09-07 10:10,Singapore FinGrid,Identity Guard SSO,3,150.00,450.00,Asia-Pacific
+580,2026-09-07 10:10,Singapore FinGrid,ML Model Deployment Engine,3,550.00,1650.00,Asia-Pacific
+575,2026-09-05 13:48,Paris Analytics Studio,Cloud Server Tier 1,2,120.00,240.00,Europe
+576,2026-09-05 13:48,Paris Analytics Studio,Executive Tech Strategy,1,1200.00,1200.00,Europe
+568,2026-09-04 12:33,Madrid Cyber Defense,Realtime ETL Pipeline,1,420.00,420.00,Europe
+569,2026-09-04 12:33,Madrid Cyber Defense,Audit Trail Vault,1,260.00,260.00,Europe
+570,2026-09-04 12:33,Madrid Cyber Defense,Data Lake Connector,3,310.00,930.00,Europe
+571,2026-09-04 12:33,Chicago Retail Systems,Identity Guard SSO,1,150.00,150.00,North America
+572,2026-09-04 12:33,Chicago Retail Systems,Workflow Automator,2,180.00,360.00,North America
+573,2026-09-04 12:33,Seoul Data Innovations,Audit Trail Vault,1,260.00,260.00,Asia-Pacific
+574,2026-09-04 12:33,Seoul Data Innovations,Realtime ETL Pipeline,3,420.00,1260.00,Asia-Pacific
+562,2026-09-03 14:14,Berlin AI Dynamics,ML Model Deployment Engine,2,550.00,1100.00,Europe
+563,2026-09-03 14:14,Berlin AI Dynamics,Data Lake Connector,1,310.00,310.00,Europe
+564,2026-09-03 14:14,Berlin AI Dynamics,Realtime ETL Pipeline,2,420.00,840.00,Europe
+565,2026-09-03 14:14,Santiago Tech Ventures,Cloud Server Tier 1,2,120.00,240.00,Latin America
+566,2026-09-03 14:14,Santiago Tech Ventures,Data Lake Connector,2,310.00,620.00,Latin America
+567,2026-09-03 14:14,Chicago Retail Systems,Kubernetes Cluster Pro,1,480.00,480.00,North America
+558,2026-09-02 08:12,Austin Logic Works,ML Model Deployment Engine,1,550.00,550.00,North America
+559,2026-09-02 08:12,Zurich Private Assets,Audit Trail Vault,3,260.00,780.00,Europe
+560,2026-09-02 08:12,Santiago Tech Ventures,DevOps Accelerator Pack,1,850.00,850.00,Latin America
+561,2026-09-02 08:12,Santiago Tech Ventures,Workflow Automator,1,180.00,180.00,Latin America
+552,2026-09-01 11:40,Toronto Dataworks,Kubernetes Cluster Pro,2,480.00,960.00,North America
+553,2026-09-01 11:40,Austin Logic Works,Audit Trail Vault,1,260.00,260.00,North America
+554,2026-09-01 11:40,Austin Logic Works,CRM Suite Ultimate,1,290.00,290.00,North America
+555,2026-09-01 11:40,Silicon Valley Scale Inc,Realtime ETL Pipeline,3,420.00,1260.00,North America
+556,2026-09-01 11:40,Toronto Dataworks,Workflow Automator,3,180.00,540.00,North America
+557,2026-09-01 11:40,Toronto Dataworks,DevOps Accelerator Pack,2,850.00,1700.00,North America
+549,2026-08-31 10:10,Austin Logic Works,Audit Trail Vault,3,260.00,780.00,North America
+550,2026-08-31 10:10,Zurich Private Assets,Data Lake Connector,2,310.00,620.00,Europe
+551,2026-08-31 10:10,Zurich Private Assets,ML Model Deployment Engine,1,550.00,550.00,Europe
+545,2026-08-30 10:17,Sao Paulo Ventures,Cloud Server Tier 2,2,240.00,480.00,Latin America
+546,2026-08-30 10:17,Sao Paulo Ventures,CRM Suite Ultimate,1,290.00,290.00,Latin America
+547,2026-08-30 10:17,Toronto Dataworks,Executive Tech Strategy,1,1200.00,1200.00,North America
+548,2026-08-30 10:17,Toronto Dataworks,Cloud Server Tier 2,1,240.00,240.00,North America
+543,2026-08-29 08:36,Sao Paulo Ventures,DevOps Accelerator Pack,1,850.00,850.00,Latin America
+544,2026-08-29 08:36,Sao Paulo Ventures,Workflow Automator,1,180.00,180.00,Latin America
+535,2026-08-28 07:44,Tokyo Digital Nexus,Cloud Server Tier 2,2,240.00,480.00,Asia-Pacific
+536,2026-08-28 07:44,Tokyo Digital Nexus,Audit Trail Vault,3,260.00,780.00,Asia-Pacific
+537,2026-08-28 07:44,Sydney Cloud Systems,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+538,2026-08-28 07:44,Dubai Future Horizons,Executive Tech Strategy,1,1200.00,1200.00,Middle East & Africa
+539,2026-08-28 07:44,Dubai Future Horizons,Realtime ETL Pipeline,3,420.00,1260.00,Middle East & Africa
+540,2026-08-28 07:44,Dubai Future Horizons,Data Lake Connector,1,310.00,310.00,Middle East & Africa
+541,2026-08-28 07:44,Paris Analytics Studio,Enterprise BI Core,2,350.00,700.00,Europe
+542,2026-08-28 07:44,Paris Analytics Studio,Cloud Server Tier 2,1,240.00,240.00,Europe
+528,2026-08-27 10:35,Apex Global Capital,Realtime ETL Pipeline,1,420.00,420.00,North America
+529,2026-08-27 10:35,Apex Global Capital,DevOps Accelerator Pack,1,850.00,850.00,North America
+530,2026-08-27 10:35,Singapore FinGrid,Workflow Automator,2,180.00,360.00,Asia-Pacific
+531,2026-08-27 10:35,Singapore FinGrid,Zero-Trust Firewall,1,390.00,390.00,Asia-Pacific
+532,2026-08-27 10:35,Sydney Cloud Systems,Executive Tech Strategy,2,1200.00,2400.00,Asia-Pacific
+533,2026-08-27 10:35,Sydney Cloud Systems,ML Model Deployment Engine,3,550.00,1650.00,Asia-Pacific
+534,2026-08-27 10:35,Sydney Cloud Systems,Enterprise BI Core,2,350.00,700.00,Asia-Pacific
+527,2026-08-26 09:20,Amsterdam Logistics Pro,Kubernetes Cluster Pro,1,480.00,480.00,Europe
+521,2026-08-25 05:50,Seoul Data Innovations,Cloud Server Tier 2,1,240.00,240.00,Asia-Pacific
+522,2026-08-25 05:50,Seoul Data Innovations,Data Lake Connector,2,310.00,620.00,Asia-Pacific
+523,2026-08-25 05:50,Seoul Data Innovations,Cloud Server Tier 1,3,120.00,360.00,Asia-Pacific
+524,2026-08-25 05:50,Seoul Data Innovations,Data Lake Connector,2,310.00,620.00,Asia-Pacific
+525,2026-08-25 05:50,Santiago Tech Ventures,Zero-Trust Firewall,1,390.00,390.00,Latin America
+526,2026-08-25 05:50,Santiago Tech Ventures,Enterprise BI Core,1,350.00,350.00,Latin America
+515,2026-08-24 12:09,Zurich Private Assets,Zero-Trust Firewall,1,390.00,390.00,Europe
+516,2026-08-24 12:09,London FinTech Group,Cloud Server Tier 1,1,120.00,120.00,Europe
+517,2026-08-24 12:09,London FinTech Group,Identity Guard SSO,3,150.00,450.00,Europe
+518,2026-08-24 12:09,London FinTech Group,Realtime ETL Pipeline,2,420.00,840.00,Europe
+519,2026-08-24 12:09,Boston Life Sciences,Data Lake Connector,1,310.00,310.00,North America
+520,2026-08-24 12:09,Boston Life Sciences,Cloud Server Tier 2,1,240.00,240.00,North America
+513,2026-08-22 08:12,Apex Global Capital,Enterprise BI Core,3,350.00,1050.00,North America
+514,2026-08-22 08:12,Apex Global Capital,Executive Tech Strategy,1,1200.00,1200.00,North America
+512,2026-08-21 06:56,Madrid Cyber Defense,Executive Tech Strategy,1,1200.00,1200.00,Europe
+504,2026-08-20 10:45,Berlin AI Dynamics,Executive Tech Strategy,1,1200.00,1200.00,Europe
+505,2026-08-20 10:45,Berlin AI Dynamics,Cloud Server Tier 1,3,120.00,360.00,Europe
+506,2026-08-20 10:45,Tokyo Digital Nexus,Identity Guard SSO,3,150.00,450.00,Asia-Pacific
+507,2026-08-20 10:45,Dubai Future Horizons,Cloud Server Tier 1,1,120.00,120.00,Middle East & Africa
+508,2026-08-20 10:45,Dubai Future Horizons,Zero-Trust Firewall,3,390.00,1170.00,Middle East & Africa
+509,2026-08-20 10:45,Dubai Future Horizons,ML Model Deployment Engine,3,550.00,1650.00,Middle East & Africa
+510,2026-08-20 10:45,Sao Paulo Ventures,Audit Trail Vault,2,260.00,520.00,Latin America
+511,2026-08-20 10:45,Sao Paulo Ventures,Identity Guard SSO,3,150.00,450.00,Latin America
+500,2026-08-19 13:03,Singapore FinGrid,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+501,2026-08-19 13:03,Singapore FinGrid,Cloud Server Tier 2,1,240.00,240.00,Asia-Pacific
+502,2026-08-19 13:03,Apex Global Capital,Cloud Server Tier 1,3,120.00,360.00,North America
+503,2026-08-19 13:03,Dubai Future Horizons,Zero-Trust Firewall,3,390.00,1170.00,Middle East & Africa
+494,2026-08-18 15:51,Apex Global Capital,ML Model Deployment Engine,1,550.00,550.00,North America
+495,2026-08-18 15:51,Sydney Cloud Systems,Executive Tech Strategy,1,1200.00,1200.00,Asia-Pacific
+496,2026-08-18 15:51,Sydney Cloud Systems,CRM Suite Ultimate,2,290.00,580.00,Asia-Pacific
+497,2026-08-18 15:51,Sydney Cloud Systems,Cloud Server Tier 2,1,240.00,240.00,Asia-Pacific
+498,2026-08-18 15:51,Sao Paulo Ventures,DevOps Accelerator Pack,3,850.00,2550.00,Latin America
+499,2026-08-18 15:51,Sao Paulo Ventures,Cloud Server Tier 1,2,120.00,240.00,Latin America
+485,2026-08-17 11:08,Paris Analytics Studio,Workflow Automator,1,180.00,180.00,Europe
+486,2026-08-17 11:08,Paris Analytics Studio,Cloud Server Tier 1,1,120.00,120.00,Europe
+487,2026-08-17 11:08,Seoul Data Innovations,Executive Tech Strategy,2,1200.00,2400.00,Asia-Pacific
+488,2026-08-17 11:08,Seoul Data Innovations,Data Lake Connector,2,310.00,620.00,Asia-Pacific
+489,2026-08-17 11:08,Chicago Retail Systems,Zero-Trust Firewall,2,390.00,780.00,North America
+490,2026-08-17 11:08,Chicago Retail Systems,Executive Tech Strategy,1,1200.00,1200.00,North America
+491,2026-08-17 11:08,Chicago Retail Systems,DevOps Accelerator Pack,2,850.00,1700.00,North America
+492,2026-08-17 11:08,Apex Global Capital,Cloud Server Tier 1,1,120.00,120.00,North America
+493,2026-08-17 11:08,Apex Global Capital,Zero-Trust Firewall,2,390.00,780.00,North America
+482,2026-08-16 08:27,Singapore FinGrid,Workflow Automator,2,180.00,360.00,Asia-Pacific
+483,2026-08-16 08:27,Singapore FinGrid,Realtime ETL Pipeline,1,420.00,420.00,Asia-Pacific
+484,2026-08-16 08:27,Singapore FinGrid,Audit Trail Vault,1,260.00,260.00,Asia-Pacific
+479,2026-08-15 08:18,Tokyo Digital Nexus,Realtime ETL Pipeline,1,420.00,420.00,Asia-Pacific
+480,2026-08-15 08:18,Tokyo Digital Nexus,ML Model Deployment Engine,1,550.00,550.00,Asia-Pacific
+481,2026-08-15 08:18,Tokyo Digital Nexus,Cloud Server Tier 2,1,240.00,240.00,Asia-Pacific
+469,2026-08-14 09:57,Dubai Future Horizons,Cloud Server Tier 1,3,120.00,360.00,Middle East & Africa
+470,2026-08-14 09:57,Zurich Private Assets,Cloud Server Tier 2,2,240.00,480.00,Europe
+471,2026-08-14 09:57,Zurich Private Assets,Data Lake Connector,1,310.00,310.00,Europe
+472,2026-08-14 09:57,Zurich Private Assets,Cloud Server Tier 1,2,120.00,240.00,Europe
+473,2026-08-14 09:57,Singapore FinGrid,ML Model Deployment Engine,1,550.00,550.00,Asia-Pacific
+474,2026-08-14 09:57,Singapore FinGrid,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+475,2026-08-14 09:57,Singapore FinGrid,Cloud Server Tier 1,2,120.00,240.00,Asia-Pacific
+476,2026-08-14 09:57,Santiago Tech Ventures,Executive Tech Strategy,1,1200.00,1200.00,Latin America
+477,2026-08-14 09:57,Santiago Tech Ventures,Cloud Server Tier 2,2,240.00,480.00,Latin America
+478,2026-08-14 09:57,Santiago Tech Ventures,CRM Suite Ultimate,1,290.00,290.00,Latin America
+467,2026-08-13 07:59,Berlin AI Dynamics,Identity Guard SSO,1,150.00,150.00,Europe
+468,2026-08-13 07:59,Berlin AI Dynamics,Cloud Server Tier 1,1,120.00,120.00,Europe
+461,2026-08-12 10:29,Austin Logic Works,DevOps Accelerator Pack,3,850.00,2550.00,North America
+462,2026-08-12 10:29,Paris Analytics Studio,Workflow Automator,2,180.00,360.00,Europe
+463,2026-08-12 10:29,Paris Analytics Studio,Kubernetes Cluster Pro,2,480.00,960.00,Europe
+464,2026-08-12 10:29,Apex Global Capital,Cloud Server Tier 1,1,120.00,120.00,North America
+465,2026-08-12 10:29,Apex Global Capital,Realtime ETL Pipeline,1,420.00,420.00,North America
+466,2026-08-12 10:29,Apex Global Capital,Workflow Automator,1,180.00,180.00,North America
+458,2026-08-11 12:35,Singapore FinGrid,CRM Suite Ultimate,2,290.00,580.00,Asia-Pacific
+459,2026-08-11 12:35,Singapore FinGrid,Realtime ETL Pipeline,1,420.00,420.00,Asia-Pacific
+460,2026-08-11 12:35,Singapore FinGrid,Executive Tech Strategy,2,1200.00,2400.00,Asia-Pacific
+456,2026-08-10 09:56,Apex Global Capital,Cloud Server Tier 1,3,120.00,360.00,North America
+457,2026-08-10 09:56,Apex Global Capital,Executive Tech Strategy,1,1200.00,1200.00,North America
+453,2026-08-09 07:18,Sydney Cloud Systems,CRM Suite Ultimate,3,290.00,870.00,Asia-Pacific
+454,2026-08-09 07:18,London FinTech Group,Executive Tech Strategy,1,1200.00,1200.00,Europe
+455,2026-08-09 07:18,London FinTech Group,Cloud Server Tier 2,1,240.00,240.00,Europe
+450,2026-08-07 08:11,Singapore FinGrid,CRM Suite Ultimate,3,290.00,870.00,Asia-Pacific
+451,2026-08-07 08:11,Silicon Valley Scale Inc,Kubernetes Cluster Pro,2,480.00,960.00,North America
+452,2026-08-07 08:11,Silicon Valley Scale Inc,Cloud Server Tier 1,1,120.00,120.00,North America
+445,2026-08-06 05:29,Chicago Retail Systems,Zero-Trust Firewall,3,390.00,1170.00,North America
+446,2026-08-06 05:29,Chicago Retail Systems,Identity Guard SSO,2,150.00,300.00,North America
+447,2026-08-06 05:29,Chicago Retail Systems,Data Lake Connector,3,310.00,930.00,North America
+448,2026-08-06 05:29,Tokyo Digital Nexus,CRM Suite Ultimate,3,290.00,870.00,Asia-Pacific
+449,2026-08-06 05:29,Tokyo Digital Nexus,Kubernetes Cluster Pro,3,480.00,1440.00,Asia-Pacific
+440,2026-08-05 16:21,Singapore FinGrid,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+441,2026-08-05 16:21,Silicon Valley Scale Inc,ML Model Deployment Engine,1,550.00,550.00,North America
+442,2026-08-05 16:21,Berlin AI Dynamics,Workflow Automator,1,180.00,180.00,Europe
+443,2026-08-05 16:21,Berlin AI Dynamics,Zero-Trust Firewall,3,390.00,1170.00,Europe
+444,2026-08-05 16:21,Singapore FinGrid,Cloud Server Tier 2,1,240.00,240.00,Asia-Pacific
+435,2026-08-04 16:30,Chicago Retail Systems,Zero-Trust Firewall,2,390.00,780.00,North America
+436,2026-08-04 16:30,Chicago Retail Systems,Enterprise BI Core,2,350.00,700.00,North America
+437,2026-08-04 16:30,Chicago Retail Systems,Executive Tech Strategy,2,1200.00,2400.00,North America
+438,2026-08-04 16:30,Chicago Retail Systems,Kubernetes Cluster Pro,2,480.00,960.00,North America
+439,2026-08-04 16:30,Zurich Private Assets,Zero-Trust Firewall,1,390.00,390.00,Europe
+432,2026-08-03 16:01,Apex Global Capital,Zero-Trust Firewall,3,390.00,1170.00,North America
+433,2026-08-03 16:01,Berlin AI Dynamics,DevOps Accelerator Pack,1,850.00,850.00,Europe
+434,2026-08-03 16:01,Berlin AI Dynamics,Kubernetes Cluster Pro,2,480.00,960.00,Europe
+431,2026-08-01 05:53,Sao Paulo Ventures,Executive Tech Strategy,3,1200.00,3600.00,Latin America
+424,2026-07-31 11:54,Amsterdam Logistics Pro,Cloud Server Tier 1,1,120.00,120.00,Europe
+425,2026-07-31 11:54,Berlin AI Dynamics,Identity Guard SSO,1,150.00,150.00,Europe
+426,2026-07-31 11:54,Berlin AI Dynamics,ML Model Deployment Engine,3,550.00,1650.00,Europe
+427,2026-07-31 11:54,Berlin AI Dynamics,Cloud Server Tier 1,2,120.00,240.00,Europe
+428,2026-07-31 11:54,Madrid Cyber Defense,Zero-Trust Firewall,1,390.00,390.00,Europe
+429,2026-07-31 11:54,Madrid Cyber Defense,Audit Trail Vault,1,260.00,260.00,Europe
+430,2026-07-31 11:54,Madrid Cyber Defense,ML Model Deployment Engine,1,550.00,550.00,Europe
+414,2026-07-30 12:32,Silicon Valley Scale Inc,Zero-Trust Firewall,1,390.00,390.00,North America
+415,2026-07-30 12:32,Silicon Valley Scale Inc,Workflow Automator,2,180.00,360.00,North America
+416,2026-07-30 12:32,Silicon Valley Scale Inc,Identity Guard SSO,2,150.00,300.00,North America
+417,2026-07-30 12:32,Sydney Cloud Systems,ML Model Deployment Engine,2,550.00,1100.00,Asia-Pacific
+418,2026-07-30 12:32,Sydney Cloud Systems,Identity Guard SSO,2,150.00,300.00,Asia-Pacific
+419,2026-07-30 12:32,Sydney Cloud Systems,Executive Tech Strategy,2,1200.00,2400.00,Asia-Pacific
+420,2026-07-30 12:32,Nordic Horizon Labs,Kubernetes Cluster Pro,2,480.00,960.00,Europe
+421,2026-07-30 12:32,Toronto Dataworks,Zero-Trust Firewall,1,390.00,390.00,North America
+422,2026-07-30 12:32,Toronto Dataworks,ML Model Deployment Engine,1,550.00,550.00,North America
+423,2026-07-30 12:32,Toronto Dataworks,Cloud Server Tier 2,1,240.00,240.00,North America
+411,2026-07-29 06:07,London FinTech Group,Zero-Trust Firewall,3,390.00,1170.00,Europe
+412,2026-07-29 06:07,London FinTech Group,DevOps Accelerator Pack,1,850.00,850.00,Europe
+413,2026-07-29 06:07,London FinTech Group,Data Lake Connector,2,310.00,620.00,Europe
+407,2026-07-28 10:10,Santiago Tech Ventures,Identity Guard SSO,1,150.00,150.00,Latin America
+408,2026-07-28 10:10,Santiago Tech Ventures,Cloud Server Tier 1,1,120.00,120.00,Latin America
+409,2026-07-28 10:10,Sao Paulo Ventures,Cloud Server Tier 2,1,240.00,240.00,Latin America
+410,2026-07-28 10:10,Sao Paulo Ventures,ML Model Deployment Engine,1,550.00,550.00,Latin America
+406,2026-07-27 10:11,Singapore FinGrid,Kubernetes Cluster Pro,2,480.00,960.00,Asia-Pacific
+405,2026-07-26 13:16,Singapore FinGrid,Zero-Trust Firewall,2,390.00,780.00,Asia-Pacific
+404,2026-07-25 14:25,Apex Global Capital,Executive Tech Strategy,3,1200.00,3600.00,North America
+396,2026-07-24 07:28,Paris Analytics Studio,DevOps Accelerator Pack,1,850.00,850.00,Europe
+397,2026-07-24 07:28,Paris Analytics Studio,Cloud Server Tier 1,2,120.00,240.00,Europe
+398,2026-07-24 07:28,Sydney Cloud Systems,Kubernetes Cluster Pro,1,480.00,480.00,Asia-Pacific
+399,2026-07-24 07:28,Sydney Cloud Systems,Enterprise BI Core,3,350.00,1050.00,Asia-Pacific
+400,2026-07-24 07:28,Dubai Future Horizons,Realtime ETL Pipeline,1,420.00,420.00,Middle East & Africa
+401,2026-07-24 07:28,Dubai Future Horizons,Cloud Server Tier 2,2,240.00,480.00,Middle East & Africa
+402,2026-07-24 07:28,Dubai Future Horizons,Audit Trail Vault,2,260.00,520.00,Middle East & Africa
+403,2026-07-24 07:28,Dubai Future Horizons,ML Model Deployment Engine,1,550.00,550.00,Middle East & Africa
+389,2026-07-23 08:19,Paris Analytics Studio,ML Model Deployment Engine,1,550.00,550.00,Europe
+390,2026-07-23 08:19,Singapore FinGrid,Enterprise BI Core,2,350.00,700.00,Asia-Pacific
+391,2026-07-23 08:19,Singapore FinGrid,Cloud Server Tier 1,2,120.00,240.00,Asia-Pacific
+392,2026-07-23 08:19,Singapore FinGrid,ML Model Deployment Engine,3,550.00,1650.00,Asia-Pacific
+393,2026-07-23 08:19,Sydney Cloud Systems,Cloud Server Tier 2,2,240.00,480.00,Asia-Pacific
+394,2026-07-23 08:19,Sydney Cloud Systems,CRM Suite Ultimate,1,290.00,290.00,Asia-Pacific
+395,2026-07-23 08:19,Sydney Cloud Systems,Identity Guard SSO,3,150.00,450.00,Asia-Pacific
+383,2026-07-22 06:15,Toronto Dataworks,Realtime ETL Pipeline,1,420.00,420.00,North America
+384,2026-07-22 06:15,Madrid Cyber Defense,Data Lake Connector,1,310.00,310.00,Europe
+385,2026-07-22 06:15,Madrid Cyber Defense,Realtime ETL Pipeline,2,420.00,840.00,Europe
+386,2026-07-22 06:15,Zurich Private Assets,DevOps Accelerator Pack,2,850.00,1700.00,Europe
+387,2026-07-22 06:15,Zurich Private Assets,Workflow Automator,2,180.00,360.00,Europe
+388,2026-07-22 06:15,Paris Analytics Studio,Realtime ETL Pipeline,3,420.00,1260.00,Europe
+381,2026-07-21 16:55,Tokyo Digital Nexus,Executive Tech Strategy,2,1200.00,2400.00,Asia-Pacific
+382,2026-07-21 16:55,Tokyo Digital Nexus,ML Model Deployment Engine,1,550.00,550.00,Asia-Pacific
+372,2026-07-20 11:58,Amsterdam Logistics Pro,CRM Suite Ultimate,2,290.00,580.00,Europe
+373,2026-07-20 11:58,Amsterdam Logistics Pro,Workflow Automator,1,180.00,180.00,Europe
+374,2026-07-20 11:58,Amsterdam Logistics Pro,Identity Guard SSO,3,150.00,450.00,Europe
+375,2026-07-20 11:58,Paris Analytics Studio,Workflow Automator,1,180.00,180.00,Europe
+376,2026-07-20 11:58,Paris Analytics Studio,Identity Guard SSO,3,150.00,450.00,Europe
+377,2026-07-20 11:58,Paris Analytics Studio,Executive Tech Strategy,2,1200.00,2400.00,Europe
+378,2026-07-20 11:58,Berlin AI Dynamics,Executive Tech Strategy,3,1200.00,3600.00,Europe
+379,2026-07-20 11:58,Berlin AI Dynamics,Identity Guard SSO,2,150.00,300.00,Europe
+380,2026-07-20 11:58,Berlin AI Dynamics,Cloud Server Tier 2,1,240.00,240.00,Europe
+370,2026-07-18 16:39,Sao Paulo Ventures,Identity Guard SSO,1,150.00,150.00,Latin America
+371,2026-07-18 16:39,Sao Paulo Ventures,Enterprise BI Core,1,350.00,350.00,Latin America
+367,2026-07-17 16:28,Sao Paulo Ventures,Cloud Server Tier 2,3,240.00,720.00,Latin America
+368,2026-07-17 16:28,Sao Paulo Ventures,Data Lake Connector,1,310.00,310.00,Latin America
+369,2026-07-17 16:28,Sao Paulo Ventures,DevOps Accelerator Pack,1,850.00,850.00,Latin America
+362,2026-07-16 16:26,Santiago Tech Ventures,Realtime ETL Pipeline,2,420.00,840.00,Latin America
+363,2026-07-16 16:26,Santiago Tech Ventures,Executive Tech Strategy,3,1200.00,3600.00,Latin America
+364,2026-07-16 16:26,Austin Logic Works,CRM Suite Ultimate,2,290.00,580.00,North America
+365,2026-07-16 16:26,Tokyo Digital Nexus,Workflow Automator,3,180.00,540.00,Asia-Pacific
+366,2026-07-16 16:26,Tokyo Digital Nexus,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+356,2026-07-15 09:37,Santiago Tech Ventures,Zero-Trust Firewall,1,390.00,390.00,Latin America
+357,2026-07-15 09:37,Santiago Tech Ventures,Executive Tech Strategy,2,1200.00,2400.00,Latin America
+358,2026-07-15 09:37,Apex Global Capital,Workflow Automator,2,180.00,360.00,North America
+359,2026-07-15 09:37,Madrid Cyber Defense,DevOps Accelerator Pack,3,850.00,2550.00,Europe
+360,2026-07-15 09:37,Madrid Cyber Defense,Zero-Trust Firewall,2,390.00,780.00,Europe
+361,2026-07-15 09:37,Zurich Private Assets,CRM Suite Ultimate,2,290.00,580.00,Europe
+348,2026-07-14 10:23,Apex Global Capital,Zero-Trust Firewall,2,390.00,780.00,North America
+349,2026-07-14 10:23,Apex Global Capital,DevOps Accelerator Pack,1,850.00,850.00,North America
+350,2026-07-14 10:23,Apex Global Capital,Enterprise BI Core,1,350.00,350.00,North America
+351,2026-07-14 10:23,Sydney Cloud Systems,Audit Trail Vault,2,260.00,520.00,Asia-Pacific
+352,2026-07-14 10:23,London FinTech Group,Kubernetes Cluster Pro,3,480.00,1440.00,Europe
+353,2026-07-14 10:23,London FinTech Group,Cloud Server Tier 1,1,120.00,120.00,Europe
+354,2026-07-14 10:23,Paris Analytics Studio,Enterprise BI Core,3,350.00,1050.00,Europe
+355,2026-07-14 10:23,Paris Analytics Studio,Workflow Automator,1,180.00,180.00,Europe
+343,2026-07-13 16:43,Sao Paulo Ventures,Cloud Server Tier 2,2,240.00,480.00,Latin America
+344,2026-07-13 16:43,Dubai Future Horizons,Zero-Trust Firewall,1,390.00,390.00,Middle East & Africa
+345,2026-07-13 16:43,Dubai Future Horizons,Realtime ETL Pipeline,3,420.00,1260.00,Middle East & Africa
+346,2026-07-13 16:43,Silicon Valley Scale Inc,Kubernetes Cluster Pro,3,480.00,1440.00,North America
+347,2026-07-13 16:43,Silicon Valley Scale Inc,Cloud Server Tier 2,2,240.00,480.00,North America
+341,2026-07-12 16:14,Madrid Cyber Defense,Audit Trail Vault,2,260.00,520.00,Europe
+342,2026-07-12 16:14,Madrid Cyber Defense,Executive Tech Strategy,1,1200.00,1200.00,Europe
+340,2026-07-10 13:20,Madrid Cyber Defense,DevOps Accelerator Pack,2,850.00,1700.00,Europe
+339,2026-07-09 09:25,Berlin AI Dynamics,Audit Trail Vault,3,260.00,780.00,Europe
+336,2026-07-08 16:45,Seoul Data Innovations,Data Lake Connector,2,310.00,620.00,Asia-Pacific
+337,2026-07-08 16:45,Seoul Data Innovations,Enterprise BI Core,1,350.00,350.00,Asia-Pacific
+338,2026-07-08 16:45,Silicon Valley Scale Inc,Identity Guard SSO,3,150.00,450.00,North America
+331,2026-07-07 16:52,Sydney Cloud Systems,Zero-Trust Firewall,3,390.00,1170.00,Asia-Pacific
+332,2026-07-07 16:52,Tokyo Digital Nexus,Identity Guard SSO,1,150.00,150.00,Asia-Pacific
+333,2026-07-07 16:52,Madrid Cyber Defense,Data Lake Connector,3,310.00,930.00,Europe
+334,2026-07-07 16:52,Madrid Cyber Defense,ML Model Deployment Engine,3,550.00,1650.00,Europe
+335,2026-07-07 16:52,Madrid Cyber Defense,Kubernetes Cluster Pro,2,480.00,960.00,Europe
+326,2026-07-06 10:01,Zurich Private Assets,Workflow Automator,3,180.00,540.00,Europe
+327,2026-07-06 10:01,Zurich Private Assets,Enterprise BI Core,2,350.00,700.00,Europe
+328,2026-07-06 10:01,Zurich Private Assets,Executive Tech Strategy,1,1200.00,1200.00,Europe
+329,2026-07-06 10:01,Sydney Cloud Systems,Realtime ETL Pipeline,1,420.00,420.00,Asia-Pacific
+330,2026-07-06 10:01,Sydney Cloud Systems,Executive Tech Strategy,2,1200.00,2400.00,Asia-Pacific
+320,2026-07-05 08:33,Sao Paulo Ventures,Realtime ETL Pipeline,1,420.00,420.00,Latin America
+321,2026-07-05 08:33,Sao Paulo Ventures,Audit Trail Vault,2,260.00,520.00,Latin America
+322,2026-07-05 08:33,Sao Paulo Ventures,Executive Tech Strategy,2,1200.00,2400.00,Latin America
+323,2026-07-05 08:33,Singapore FinGrid,Data Lake Connector,1,310.00,310.00,Asia-Pacific
+324,2026-07-05 08:33,Singapore FinGrid,Audit Trail Vault,3,260.00,780.00,Asia-Pacific
+325,2026-07-05 08:33,Singapore FinGrid,Cloud Server Tier 1,2,120.00,240.00,Asia-Pacific
+319,2026-07-04 09:05,Boston Life Sciences,DevOps Accelerator Pack,1,850.00,850.00,North America
+313,2026-07-03 15:34,Austin Logic Works,Data Lake Connector,2,310.00,620.00,North America
+314,2026-07-03 15:34,Dubai Future Horizons,ML Model Deployment Engine,1,550.00,550.00,Middle East & Africa
+315,2026-07-03 15:34,Dubai Future Horizons,Identity Guard SSO,2,150.00,300.00,Middle East & Africa
+316,2026-07-03 15:34,London FinTech Group,Cloud Server Tier 1,3,120.00,360.00,Europe
+317,2026-07-03 15:34,Amsterdam Logistics Pro,CRM Suite Ultimate,3,290.00,870.00,Europe
+318,2026-07-03 15:34,Amsterdam Logistics Pro,Cloud Server Tier 2,2,240.00,480.00,Europe
+312,2026-07-02 09:12,Toronto Dataworks,Cloud Server Tier 2,2,240.00,480.00,North America
+306,2026-07-01 08:31,Silicon Valley Scale Inc,Data Lake Connector,3,310.00,930.00,North America
+307,2026-07-01 08:31,Silicon Valley Scale Inc,ML Model Deployment Engine,1,550.00,550.00,North America
+308,2026-07-01 08:31,Nordic Horizon Labs,Cloud Server Tier 2,1,240.00,240.00,Europe
+309,2026-07-01 08:31,Tokyo Digital Nexus,Workflow Automator,2,180.00,360.00,Asia-Pacific
+310,2026-07-01 08:31,Tokyo Digital Nexus,Kubernetes Cluster Pro,1,480.00,480.00,Asia-Pacific
+311,2026-07-01 08:31,Tokyo Digital Nexus,DevOps Accelerator Pack,1,850.00,850.00,Asia-Pacific
+299,2026-06-30 08:10,Seoul Data Innovations,Kubernetes Cluster Pro,3,480.00,1440.00,Asia-Pacific
+300,2026-06-30 08:10,Seoul Data Innovations,CRM Suite Ultimate,2,290.00,580.00,Asia-Pacific
+301,2026-06-30 08:10,Zurich Private Assets,Data Lake Connector,2,310.00,620.00,Europe
+302,2026-06-30 08:10,Zurich Private Assets,Zero-Trust Firewall,1,390.00,390.00,Europe
+303,2026-06-30 08:10,London FinTech Group,Kubernetes Cluster Pro,3,480.00,1440.00,Europe
+304,2026-06-30 08:10,Chicago Retail Systems,Cloud Server Tier 2,3,240.00,720.00,North America
+305,2026-06-30 08:10,Chicago Retail Systems,DevOps Accelerator Pack,1,850.00,850.00,North America
+296,2026-06-29 07:35,Dubai Future Horizons,Cloud Server Tier 1,2,120.00,240.00,Middle East & Africa
+297,2026-06-29 07:35,Dubai Future Horizons,Zero-Trust Firewall,2,390.00,780.00,Middle East & Africa
+298,2026-06-29 07:35,Dubai Future Horizons,Realtime ETL Pipeline,2,420.00,840.00,Middle East & Africa
+294,2026-06-27 08:45,Nordic Horizon Labs,Realtime ETL Pipeline,3,420.00,1260.00,Europe
+295,2026-06-27 08:45,Dubai Future Horizons,Kubernetes Cluster Pro,1,480.00,480.00,Middle East & Africa
+291,2026-06-26 10:20,Tokyo Digital Nexus,Zero-Trust Firewall,2,390.00,780.00,Asia-Pacific
+292,2026-06-26 10:20,Tokyo Digital Nexus,Executive Tech Strategy,1,1200.00,1200.00,Asia-Pacific
+293,2026-06-26 10:20,Tokyo Digital Nexus,Realtime ETL Pipeline,1,420.00,420.00,Asia-Pacific
+290,2026-06-25 08:58,Silicon Valley Scale Inc,Kubernetes Cluster Pro,2,480.00,960.00,North America
+289,2026-06-24 07:30,Amsterdam Logistics Pro,Realtime ETL Pipeline,1,420.00,420.00,Europe
+283,2026-06-23 09:05,Nordic Horizon Labs,Executive Tech Strategy,1,1200.00,1200.00,Europe
+284,2026-06-23 09:05,Nordic Horizon Labs,Audit Trail Vault,1,260.00,260.00,Europe
+285,2026-06-23 09:05,Nordic Horizon Labs,DevOps Accelerator Pack,1,850.00,850.00,Europe
+286,2026-06-23 09:05,Austin Logic Works,ML Model Deployment Engine,3,550.00,1650.00,North America
+287,2026-06-23 09:05,Singapore FinGrid,Data Lake Connector,2,310.00,620.00,Asia-Pacific
+288,2026-06-23 09:05,Singapore FinGrid,Cloud Server Tier 2,2,240.00,480.00,Asia-Pacific
+274,2026-06-22 09:21,Amsterdam Logistics Pro,Enterprise BI Core,1,350.00,350.00,Europe
+275,2026-06-22 09:21,Amsterdam Logistics Pro,Kubernetes Cluster Pro,2,480.00,960.00,Europe
+276,2026-06-22 09:21,Sao Paulo Ventures,Cloud Server Tier 2,1,240.00,240.00,Latin America
+277,2026-06-22 09:21,Sao Paulo Ventures,Kubernetes Cluster Pro,2,480.00,960.00,Latin America
+278,2026-06-22 09:21,London FinTech Group,Workflow Automator,3,180.00,540.00,Europe
+279,2026-06-22 09:21,London FinTech Group,ML Model Deployment Engine,1,550.00,550.00,Europe
+280,2026-06-22 09:21,Amsterdam Logistics Pro,Zero-Trust Firewall,1,390.00,390.00,Europe
+281,2026-06-22 09:21,Amsterdam Logistics Pro,Cloud Server Tier 1,2,120.00,240.00,Europe
+282,2026-06-22 09:21,Amsterdam Logistics Pro,Audit Trail Vault,1,260.00,260.00,Europe
+270,2026-06-20 10:58,Dubai Future Horizons,Workflow Automator,3,180.00,540.00,Middle East & Africa
+271,2026-06-20 10:58,Madrid Cyber Defense,Identity Guard SSO,3,150.00,450.00,Europe
+272,2026-06-20 10:58,Madrid Cyber Defense,Realtime ETL Pipeline,1,420.00,420.00,Europe
+273,2026-06-20 10:58,Madrid Cyber Defense,Audit Trail Vault,1,260.00,260.00,Europe
+269,2026-06-19 11:34,Dubai Future Horizons,ML Model Deployment Engine,2,550.00,1100.00,Middle East & Africa
+267,2026-06-18 12:26,Seoul Data Innovations,Cloud Server Tier 1,3,120.00,360.00,Asia-Pacific
+268,2026-06-18 12:26,Seoul Data Innovations,Realtime ETL Pipeline,1,420.00,420.00,Asia-Pacific
+263,2026-06-17 09:06,Nordic Horizon Labs,Audit Trail Vault,1,260.00,260.00,Europe
+264,2026-06-17 09:06,Nordic Horizon Labs,Zero-Trust Firewall,1,390.00,390.00,Europe
+265,2026-06-17 09:06,Sao Paulo Ventures,Cloud Server Tier 2,3,240.00,720.00,Latin America
+266,2026-06-17 09:06,Paris Analytics Studio,ML Model Deployment Engine,2,550.00,1100.00,Europe
+260,2026-06-16 13:05,Nordic Horizon Labs,CRM Suite Ultimate,3,290.00,870.00,Europe
+261,2026-06-16 13:05,Nordic Horizon Labs,DevOps Accelerator Pack,1,850.00,850.00,Europe
+262,2026-06-16 13:05,Nordic Horizon Labs,Data Lake Connector,1,310.00,310.00,Europe
+257,2026-06-15 16:54,Berlin AI Dynamics,Audit Trail Vault,2,260.00,520.00,Europe
+258,2026-06-15 16:54,Nordic Horizon Labs,ML Model Deployment Engine,1,550.00,550.00,Europe
+259,2026-06-15 16:54,Nordic Horizon Labs,Enterprise BI Core,3,350.00,1050.00,Europe
+255,2026-06-14 13:37,Silicon Valley Scale Inc,Kubernetes Cluster Pro,1,480.00,480.00,North America
+256,2026-06-14 13:37,Sao Paulo Ventures,Workflow Automator,1,180.00,180.00,Latin America
+252,2026-06-13 16:58,Santiago Tech Ventures,Identity Guard SSO,1,150.00,150.00,Latin America
+253,2026-06-13 16:58,Santiago Tech Ventures,Cloud Server Tier 1,2,120.00,240.00,Latin America
+254,2026-06-13 16:58,Santiago Tech Ventures,Enterprise BI Core,1,350.00,350.00,Latin America
+251,2026-06-12 15:12,Dubai Future Horizons,Cloud Server Tier 2,1,240.00,240.00,Middle East & Africa
+247,2026-06-11 12:46,Apex Global Capital,CRM Suite Ultimate,2,290.00,580.00,North America
+248,2026-06-11 12:46,Apex Global Capital,Data Lake Connector,1,310.00,310.00,North America
+249,2026-06-11 12:46,Apex Global Capital,Enterprise BI Core,3,350.00,1050.00,North America
+250,2026-06-11 12:46,Singapore FinGrid,Zero-Trust Firewall,1,390.00,390.00,Asia-Pacific
+239,2026-06-10 05:04,Sao Paulo Ventures,DevOps Accelerator Pack,1,850.00,850.00,Latin America
+240,2026-06-10 05:04,Sao Paulo Ventures,Identity Guard SSO,1,150.00,150.00,Latin America
+241,2026-06-10 05:04,Chicago Retail Systems,Kubernetes Cluster Pro,1,480.00,480.00,North America
+242,2026-06-10 05:04,Chicago Retail Systems,Identity Guard SSO,1,150.00,150.00,North America
+243,2026-06-10 05:04,Silicon Valley Scale Inc,Workflow Automator,1,180.00,180.00,North America
+244,2026-06-10 05:04,Silicon Valley Scale Inc,Audit Trail Vault,1,260.00,260.00,North America
+245,2026-06-10 05:04,Toronto Dataworks,Workflow Automator,2,180.00,360.00,North America
+246,2026-06-10 05:04,Toronto Dataworks,Cloud Server Tier 1,3,120.00,360.00,North America
+228,2026-06-09 08:23,Berlin AI Dynamics,Enterprise BI Core,3,350.00,1050.00,Europe
+229,2026-06-09 08:23,Berlin AI Dynamics,ML Model Deployment Engine,1,550.00,550.00,Europe
+230,2026-06-09 08:23,Berlin AI Dynamics,Identity Guard SSO,1,150.00,150.00,Europe
+231,2026-06-09 08:23,Madrid Cyber Defense,Data Lake Connector,1,310.00,310.00,Europe
+232,2026-06-09 08:23,Madrid Cyber Defense,Audit Trail Vault,3,260.00,780.00,Europe
+233,2026-06-09 08:23,Madrid Cyber Defense,DevOps Accelerator Pack,2,850.00,1700.00,Europe
+234,2026-06-09 08:23,Nordic Horizon Labs,Enterprise BI Core,1,350.00,350.00,Europe
+235,2026-06-09 08:23,Nordic Horizon Labs,Cloud Server Tier 2,3,240.00,720.00,Europe
+236,2026-06-09 08:23,Nordic Horizon Labs,ML Model Deployment Engine,2,550.00,1100.00,Europe
+237,2026-06-09 08:23,Toronto Dataworks,Audit Trail Vault,1,260.00,260.00,North America
+238,2026-06-09 08:23,Toronto Dataworks,Executive Tech Strategy,1,1200.00,1200.00,North America
+224,2026-06-08 14:14,Sao Paulo Ventures,ML Model Deployment Engine,2,550.00,1100.00,Latin America
+225,2026-06-08 14:14,Sao Paulo Ventures,Cloud Server Tier 1,1,120.00,120.00,Latin America
+226,2026-06-08 14:14,Apex Global Capital,Zero-Trust Firewall,3,390.00,1170.00,North America
+227,2026-06-08 14:14,Apex Global Capital,DevOps Accelerator Pack,2,850.00,1700.00,North America
+223,2026-06-07 15:19,Sydney Cloud Systems,Data Lake Connector,1,310.00,310.00,Asia-Pacific
+222,2026-06-05 09:00,Paris Analytics Studio,Executive Tech Strategy,1,1200.00,1200.00,Europe
+216,2026-06-04 09:01,Nordic Horizon Labs,DevOps Accelerator Pack,1,850.00,850.00,Europe
+217,2026-06-04 09:01,Nordic Horizon Labs,Realtime ETL Pipeline,1,420.00,420.00,Europe
+218,2026-06-04 09:01,Nordic Horizon Labs,Workflow Automator,1,180.00,180.00,Europe
+219,2026-06-04 09:01,Paris Analytics Studio,DevOps Accelerator Pack,3,850.00,2550.00,Europe
+220,2026-06-04 09:01,London FinTech Group,Data Lake Connector,3,310.00,930.00,Europe
+221,2026-06-04 09:01,London FinTech Group,Enterprise BI Core,3,350.00,1050.00,Europe
+213,2026-06-03 05:49,Singapore FinGrid,DevOps Accelerator Pack,1,850.00,850.00,Asia-Pacific
+214,2026-06-03 05:49,Singapore FinGrid,ML Model Deployment Engine,3,550.00,1650.00,Asia-Pacific
+215,2026-06-03 05:49,Singapore FinGrid,Workflow Automator,1,180.00,180.00,Asia-Pacific
+207,2026-06-02 08:44,Singapore FinGrid,Audit Trail Vault,2,260.00,520.00,Asia-Pacific
+208,2026-06-02 08:44,Singapore FinGrid,Executive Tech Strategy,3,1200.00,3600.00,Asia-Pacific
+209,2026-06-02 08:44,Singapore FinGrid,Enterprise BI Core,2,350.00,700.00,Asia-Pacific
+210,2026-06-02 08:44,Amsterdam Logistics Pro,Workflow Automator,1,180.00,180.00,Europe
+211,2026-06-02 08:44,Santiago Tech Ventures,Zero-Trust Firewall,2,390.00,780.00,Latin America
+212,2026-06-02 08:44,Santiago Tech Ventures,Cloud Server Tier 1,1,120.00,120.00,Latin America
+205,2026-06-01 06:04,Madrid Cyber Defense,Audit Trail Vault,1,260.00,260.00,Europe
+206,2026-06-01 06:04,Madrid Cyber Defense,Enterprise BI Core,1,350.00,350.00,Europe
+200,2026-05-31 05:12,Zurich Private Assets,Audit Trail Vault,1,260.00,260.00,Europe
+201,2026-05-31 05:12,Zurich Private Assets,Kubernetes Cluster Pro,1,480.00,480.00,Europe
+202,2026-05-31 05:12,Zurich Private Assets,Identity Guard SSO,3,150.00,450.00,Europe
+203,2026-05-31 05:12,Austin Logic Works,ML Model Deployment Engine,1,550.00,550.00,North America
+204,2026-05-31 05:12,Austin Logic Works,Identity Guard SSO,3,150.00,450.00,North America
+199,2026-05-30 05:49,Seoul Data Innovations,ML Model Deployment Engine,1,550.00,550.00,Asia-Pacific
+197,2026-05-29 07:09,Toronto Dataworks,Cloud Server Tier 1,2,120.00,240.00,North America
+198,2026-05-29 07:09,Chicago Retail Systems,ML Model Deployment Engine,1,550.00,550.00,North America
+195,2026-05-28 06:43,Nordic Horizon Labs,Cloud Server Tier 1,1,120.00,120.00,Europe
+196,2026-05-28 06:43,Nordic Horizon Labs,Kubernetes Cluster Pro,2,480.00,960.00,Europe
+191,2026-05-27 10:44,Silicon Valley Scale Inc,ML Model Deployment Engine,1,550.00,550.00,North America
+192,2026-05-27 10:44,Amsterdam Logistics Pro,Cloud Server Tier 1,3,120.00,360.00,Europe
+193,2026-05-27 10:44,Amsterdam Logistics Pro,Cloud Server Tier 2,3,240.00,720.00,Europe
+194,2026-05-27 10:44,Boston Life Sciences,Identity Guard SSO,1,150.00,150.00,North America
+187,2026-05-26 10:33,Santiago Tech Ventures,Audit Trail Vault,1,260.00,260.00,Latin America
+188,2026-05-26 10:33,Santiago Tech Ventures,ML Model Deployment Engine,1,550.00,550.00,Latin America
+189,2026-05-26 10:33,Santiago Tech Ventures,Cloud Server Tier 2,1,240.00,240.00,Latin America
+190,2026-05-26 10:33,Berlin AI Dynamics,Executive Tech Strategy,2,1200.00,2400.00,Europe
+180,2026-05-25 10:36,Sydney Cloud Systems,DevOps Accelerator Pack,1,850.00,850.00,Asia-Pacific
+181,2026-05-25 10:36,Sydney Cloud Systems,Workflow Automator,2,180.00,360.00,Asia-Pacific
+182,2026-05-25 10:36,Boston Life Sciences,Realtime ETL Pipeline,2,420.00,840.00,North America
+183,2026-05-25 10:36,Boston Life Sciences,Cloud Server Tier 1,3,120.00,360.00,North America
+184,2026-05-25 10:36,Boston Life Sciences,Audit Trail Vault,3,260.00,780.00,North America
+185,2026-05-25 10:36,Boston Life Sciences,DevOps Accelerator Pack,2,850.00,1700.00,North America
+186,2026-05-25 10:36,Sao Paulo Ventures,ML Model Deployment Engine,1,550.00,550.00,Latin America
+176,2026-05-23 15:11,Chicago Retail Systems,Cloud Server Tier 2,3,240.00,720.00,North America
+177,2026-05-23 15:11,Chicago Retail Systems,Identity Guard SSO,1,150.00,150.00,North America
+178,2026-05-23 15:11,London FinTech Group,Zero-Trust Firewall,1,390.00,390.00,Europe
+179,2026-05-23 15:11,London FinTech Group,Cloud Server Tier 2,1,240.00,240.00,Europe
+174,2026-05-22 08:29,Seoul Data Innovations,Data Lake Connector,1,310.00,310.00,Asia-Pacific
+175,2026-05-22 08:29,Seoul Data Innovations,Executive Tech Strategy,3,1200.00,3600.00,Asia-Pacific
+167,2026-05-21 08:39,London FinTech Group,ML Model Deployment Engine,2,550.00,1100.00,Europe
+168,2026-05-21 08:39,Sao Paulo Ventures,Zero-Trust Firewall,3,390.00,1170.00,Latin America
+169,2026-05-21 08:39,Sao Paulo Ventures,Identity Guard SSO,1,150.00,150.00,Latin America
+170,2026-05-21 08:39,Santiago Tech Ventures,Data Lake Connector,1,310.00,310.00,Latin America
+171,2026-05-21 08:39,Santiago Tech Ventures,Enterprise BI Core,3,350.00,1050.00,Latin America
+172,2026-05-21 08:39,Santiago Tech Ventures,Audit Trail Vault,1,260.00,260.00,Latin America
+173,2026-05-21 08:39,Dubai Future Horizons,Workflow Automator,3,180.00,540.00,Middle East & Africa
+166,2026-05-20 06:08,Chicago Retail Systems,Kubernetes Cluster Pro,3,480.00,1440.00,North America
+163,2026-05-19 07:46,Apex Global Capital,Audit Trail Vault,2,260.00,520.00,North America
+164,2026-05-19 07:46,Apex Global Capital,Cloud Server Tier 2,2,240.00,480.00,North America
+165,2026-05-19 07:46,Apex Global Capital,CRM Suite Ultimate,3,290.00,870.00,North America
+158,2026-05-18 11:59,Paris Analytics Studio,Workflow Automator,2,180.00,360.00,Europe
+159,2026-05-18 11:59,Dubai Future Horizons,Cloud Server Tier 1,3,120.00,360.00,Middle East & Africa
+160,2026-05-18 11:59,Dubai Future Horizons,Audit Trail Vault,1,260.00,260.00,Middle East & Africa
+161,2026-05-18 11:59,Dubai Future Horizons,Identity Guard SSO,1,150.00,150.00,Middle East & Africa
+162,2026-05-18 11:59,Nordic Horizon Labs,CRM Suite Ultimate,3,290.00,870.00,Europe
+154,2026-05-17 08:17,Austin Logic Works,Identity Guard SSO,2,150.00,300.00,North America
+155,2026-05-17 08:17,Sydney Cloud Systems,DevOps Accelerator Pack,3,850.00,2550.00,Asia-Pacific
+156,2026-05-17 08:17,Sydney Cloud Systems,Cloud Server Tier 2,3,240.00,720.00,Asia-Pacific
+157,2026-05-17 08:17,Sydney Cloud Systems,CRM Suite Ultimate,3,290.00,870.00,Asia-Pacific
+152,2026-05-16 15:02,Santiago Tech Ventures,Kubernetes Cluster Pro,3,480.00,1440.00,Latin America
+153,2026-05-16 15:02,Santiago Tech Ventures,Audit Trail Vault,1,260.00,260.00,Latin America
+147,2026-05-15 12:58,Boston Life Sciences,Identity Guard SSO,2,150.00,300.00,North America
+148,2026-05-15 12:58,Boston Life Sciences,DevOps Accelerator Pack,3,850.00,2550.00,North America
+149,2026-05-15 12:58,Boston Life Sciences,Zero-Trust Firewall,3,390.00,1170.00,North America
+150,2026-05-15 12:58,Dubai Future Horizons,DevOps Accelerator Pack,1,850.00,850.00,Middle East & Africa
+151,2026-05-15 12:58,Dubai Future Horizons,Executive Tech Strategy,1,1200.00,1200.00,Middle East & Africa
+142,2026-05-14 05:33,Singapore FinGrid,Cloud Server Tier 1,1,120.00,120.00,Asia-Pacific
+143,2026-05-14 05:33,Singapore FinGrid,Audit Trail Vault,3,260.00,780.00,Asia-Pacific
+144,2026-05-14 05:33,Singapore FinGrid,Realtime ETL Pipeline,1,420.00,420.00,Asia-Pacific
+145,2026-05-14 05:33,Zurich Private Assets,Data Lake Connector,2,310.00,620.00,Europe
+146,2026-05-14 05:33,Berlin AI Dynamics,ML Model Deployment Engine,1,550.00,550.00,Europe
+141,2026-05-13 07:41,Boston Life Sciences,Zero-Trust Firewall,2,390.00,780.00,North America
+138,2026-05-12 07:41,Amsterdam Logistics Pro,CRM Suite Ultimate,3,290.00,870.00,Europe
+139,2026-05-12 07:41,Amsterdam Logistics Pro,Kubernetes Cluster Pro,1,480.00,480.00,Europe
+140,2026-05-12 07:41,Amsterdam Logistics Pro,Executive Tech Strategy,3,1200.00,3600.00,Europe
+137,2026-05-11 15:20,Berlin AI Dynamics,Realtime ETL Pipeline,1,420.00,420.00,Europe

@@ -1,0 +1,6 @@
+Order ID,Order Date,Customer Name,Customer Email,City,Product Category,Product Name,Quantity,Unit Price,Total Amount,Payment Status
+PK-ORD-7021,2026-11-21,Mehwish Hayat,mehwish.hayat@gmail.com,Lahore,Luxury Velvet,Royal Zardozi Velvet Peshwas,1,39000,39000,Paid
+PK-ORD-7022,2026-11-21,Kubra Khan,kubra.khan@yahoo.com,Karachi,Bridal & Heavy Formal,Embellished Organza Saree Set,1,46000,46000,Paid
+PK-ORD-7023,2026-11-21,Syra Yousuf,syra.yousuf@gmail.com,Islamabad,Formal Chiffon,Handcrafted Chikankari Anarkali,2,24000,48000,Paid
+PK-ORD-7024,2026-11-21,Aiman Khan,aiman.khan@hotmail.com,Faisalabad,Luxury Pret,Sequined Tilla Kalidar Kurti,1,28000,28000,Paid
+PK-ORD-7025,2026-11-21,Minal Khan,minal.khan@gmail.com,Rawalpindi,Festive Lawn & Jacquard,Hand-Embroidered Net Frock,1,33500,33500,Paid

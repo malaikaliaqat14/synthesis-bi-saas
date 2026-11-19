@@ -1,0 +1,121 @@
+customer_id,customer_name,email,region,total_orders,total_spending,avg_order_value,days_since_last_order,customer_lifetime_days,purchase_frequency,churned
+1,Noah Brown,noah.brown1@example.com,North America,20,14090.0,704.5,662,304,1.8,1
+2,Ella Rodriguez,ella.rodriguez2@example.com,Europe,60,37280.0,621.33,28,935,1.87,0
+3,Isabella Jones,isabella.jones3@example.com,North America,67,41370.0,617.46,15,943,2.07,0
+4,Emily Moore,emily.moore4@example.com,North America,48,30850.0,642.71,24,910,1.53,0
+5,Liam Wilson,liam.wilson5@example.com,North America,30,19240.0,641.33,449,492,1.72,1
+6,James Williams,james.williams6@example.com,Europe,62,50355.0,812.18,31,933,1.93,0
+7,Isabella Taylor,isabella.taylor7@example.com,Middle East & Africa,52,36105.0,694.33,7,961,1.57,0
+8,James Moore,james.moore8@example.com,Europe,65,37050.0,570.0,48,907,2.08,0
+9,Henry Moore,henry.moore9@example.com,Latin America,52,45845.0,881.63,10,925,1.63,0
+10,Isabella Anderson,isabella.anderson10@example.com,Middle East & Africa,53,27645.0,521.6,4,909,1.69,0
+11,William Smith,william.smith11@example.com,Europe,10,10420.0,1042.0,745,192,1.35,1
+12,Henry Wilson,henry.wilson12@example.com,Asia-Pacific,14,9930.0,709.29,608,333,1.16,1
+13,William Jones,william.jones13@example.com,Europe,26,19190.0,738.08,419,548,1.35,1
+14,Sebastian Hernandez,sebastian.hernandez14@example.com,North America,62,46035.0,742.5,5,950,1.9,0
+15,Oliver Gonzalez,oliver.gonzalez15@example.com,North America,45,29455.0,654.56,1,905,1.44,0
+16,Charlotte Lopez,charlotte.lopez16@example.com,Middle East & Africa,19,10265.0,540.26,526,427,1.25,1
+17,William Johnson,william.johnson17@example.com,Latin America,56,35610.0,635.89,12,907,1.79,0
+18,Evelyn Brown,evelyn.brown18@example.com,Latin America,53,40940.0,772.45,1,901,1.71,0
+19,Oliver Moore,oliver.moore19@example.com,Asia-Pacific,17,12530.0,737.06,631,318,1.47,1
+20,Noah Martin,noah.martin20@example.com,Asia-Pacific,66,46085.0,698.26,0,963,1.99,0
+21,Liam Miller,liam.miller21@example.com,North America,70,51180.0,731.14,3,936,2.17,0
+22,Emma Davis,emma.davis22@example.com,Asia-Pacific,60,33250.0,554.17,2,938,1.86,0
+23,Oliver Davis,oliver.davis23@example.com,North America,31,18525.0,597.58,383,568,1.56,1
+24,Daniel Rodriguez,daniel.rodriguez24@example.com,Latin America,65,42160.0,648.62,2,944,2.0,0
+25,Noah Lopez,noah.lopez25@example.com,Europe,39,35630.0,913.59,261,645,1.73,1
+26,Charlotte Lopez,charlotte.lopez26@example.com,Europe,60,36935.0,615.58,0,962,1.81,0
+27,Emily Rodriguez,emily.rodriguez27@example.com,North America,25,23625.0,945.0,489,479,1.47,1
+28,Abigail Garcia,abigail.garcia28@example.com,Middle East & Africa,72,44095.0,612.43,22,943,2.22,0
+29,Ella Davis,ella.davis29@example.com,Europe,66,50435.0,764.17,15,944,2.03,0
+30,Benjamin Gonzalez,benjamin.gonzalez30@example.com,Asia-Pacific,87,59470.0,683.56,1,933,2.71,0
+31,Noah Moore,noah.moore31@example.com,Europe,56,38150.0,681.25,34,932,1.75,0
+32,Emily Hernandez,emily.hernandez32@example.com,North America,31,24300.0,783.87,266,692,1.29,1
+33,Isabella Johnson,isabella.johnson33@example.com,Asia-Pacific,54,33320.0,617.04,5,949,1.65,0
+34,Daniel Rodriguez,daniel.rodriguez34@example.com,North America,76,46590.0,613.03,13,934,2.37,0
+35,Alexander Jackson,alexander.jackson35@example.com,Asia-Pacific,66,52425.0,794.32,1,959,2.0,0
+36,Alexander Thomas,alexander.thomas36@example.com,Latin America,56,41280.0,737.14,9,926,1.76,0
+37,Noah Anderson,noah.anderson37@example.com,Europe,7,5175.0,739.29,797,141,1.23,1
+38,William Jones,william.jones38@example.com,Europe,62,45795.0,738.63,0,893,2.02,0
+39,Ella Moore,ella.moore39@example.com,Middle East & Africa,58,41135.0,709.22,16,936,1.8,0
+40,William Jackson,william.jackson40@example.com,Latin America,61,46870.0,768.36,15,953,1.86,0
+41,Liam Gonzalez,liam.gonzalez41@example.com,Asia-Pacific,37,26445.0,714.73,222,741,1.44,1
+42,Isabella Jones,isabella.jones42@example.com,Middle East & Africa,58,34765.0,599.4,15,888,1.9,0
+43,Harper Williams,harper.williams43@example.com,North America,22,13375.0,607.95,546,401,1.53,1
+44,Sophia Jones,sophia.jones44@example.com,Europe,56,37320.0,666.43,1,966,1.69,0
+45,Scarlett Wilson,scarlett.wilson45@example.com,Middle East & Africa,14,6860.0,490.0,686,270,1.4,1
+46,Oliver Gonzalez,oliver.gonzalez46@example.com,Latin America,13,7005.0,538.85,673,262,1.34,1
+47,Abigail Anderson,abigail.anderson47@example.com,Middle East & Africa,68,44800.0,658.82,3,959,2.06,0
+48,William Moore,william.moore48@example.com,North America,22,12930.0,587.73,524,434,1.42,1
+49,Emily Brown,emily.brown49@example.com,Middle East & Africa,66,46820.0,709.39,0,966,1.99,0
+50,Sebastian Rodriguez,sebastian.rodriguez50@example.com,Asia-Pacific,56,38025.0,679.02,15,917,1.77,0
+51,Sophia Martinez,sophia.martinez51@example.com,Latin America,65,38135.0,586.69,6,961,1.97,0
+52,Mia Anderson,mia.anderson52@example.com,North America,59,36550.0,619.49,35,911,1.88,0
+53,Ella Rodriguez,ella.rodriguez53@example.com,Middle East & Africa,54,40915.0,757.69,10,923,1.7,0
+54,Sebastian Garcia,sebastian.garcia54@example.com,Middle East & Africa,71,58810.0,828.31,6,939,2.2,0
+55,Sophia Martinez,sophia.martinez55@example.com,Middle East & Africa,49,32820.0,669.8,19,939,1.52,0
+56,Abigail Miller,abigail.miller56@example.com,Europe,17,10920.0,642.35,672,296,1.56,1
+57,Charlotte Garcia,charlotte.garcia57@example.com,Middle East & Africa,70,42210.0,603.0,2,950,2.14,0
+58,Sebastian Taylor,sebastian.taylor58@example.com,North America,56,34385.0,614.02,8,959,1.7,0
+59,Abigail Hernandez,abigail.hernandez59@example.com,Latin America,50,33005.0,660.1,4,925,1.57,0
+60,James Brown,james.brown60@example.com,Asia-Pacific,39,29380.0,753.33,13,935,1.21,0
+61,Scarlett Martinez,scarlett.martinez61@example.com,Europe,69,59580.0,863.48,6,954,2.1,0
+62,Emma Davis,emma.davis62@example.com,Middle East & Africa,64,50880.0,795.0,27,935,1.99,0
+63,Oliver Williams,oliver.williams63@example.com,Latin America,9,8040.0,893.33,706,189,1.23,1
+64,Oliver Moore,oliver.moore64@example.com,Europe,62,51080.0,823.87,1,959,1.88,0
+65,Lucas Thomas,lucas.thomas65@example.com,Middle East & Africa,48,26750.0,557.29,224,722,1.91,1
+66,Mia Rodriguez,mia.rodriguez66@example.com,Middle East & Africa,14,11475.0,819.64,638,306,1.25,1
+67,Abigail Wilson,abigail.wilson67@example.com,Europe,59,40815.0,691.78,9,940,1.82,0
+68,Evelyn Miller,evelyn.miller68@example.com,Asia-Pacific,70,42725.0,610.36,5,932,2.18,0
+69,Daniel Lopez,daniel.lopez69@example.com,Latin America,62,42975.0,693.15,10,919,1.96,0
+70,Michael Anderson,michael.anderson70@example.com,North America,63,37935.0,602.14,6,959,1.91,0
+71,Isabella Davis,isabella.davis71@example.com,North America,19,9290.0,488.95,520,404,1.31,1
+72,Ethan Smith,ethan.smith72@example.com,Middle East & Africa,57,48245.0,846.4,40,882,1.88,0
+73,Evelyn Davis,evelyn.davis73@example.com,Middle East & Africa,60,42300.0,705.0,7,961,1.82,0
+74,Isabella Smith,isabella.smith74@example.com,North America,26,14945.0,574.81,540,424,1.72,1
+75,Henry Johnson,henry.johnson75@example.com,Europe,71,43105.0,607.11,1,965,2.14,0
+76,Oliver Johnson,oliver.johnson76@example.com,Asia-Pacific,62,33575.0,541.53,2,939,1.92,0
+77,Oliver Taylor,oliver.taylor77@example.com,Europe,25,15520.0,620.8,586,373,1.86,1
+78,William Thomas,william.thomas78@example.com,Europe,70,43215.0,617.36,10,920,2.21,0
+79,Evelyn Jones,evelyn.jones79@example.com,Middle East & Africa,34,23430.0,689.12,465,485,1.98,1
+80,Liam Thomas,liam.thomas80@example.com,Europe,60,36680.0,611.33,58,869,2.0,0
+81,Scarlett Thomas,scarlett.thomas81@example.com,Latin America,58,41565.0,716.64,4,944,1.79,0
+82,Alexander Brown,alexander.brown82@example.com,North America,57,32570.0,571.4,0,938,1.77,0
+83,Emily Wilson,emily.wilson83@example.com,Asia-Pacific,62,34130.0,550.48,0,924,1.95,0
+84,Amelia Wilson,amelia.wilson84@example.com,Latin America,63,43290.0,687.14,0,930,1.97,0
+85,Ella Johnson,ella.johnson85@example.com,North America,57,42715.0,749.39,4,955,1.74,0
+86,Emma Gonzalez,emma.gonzalez86@example.com,Asia-Pacific,57,34585.0,606.75,6,941,1.76,0
+87,Scarlett Brown,scarlett.brown87@example.com,Europe,54,33300.0,616.67,1,951,1.65,0
+88,Alexander Miller,alexander.miller88@example.com,Middle East & Africa,40,23025.0,575.62,6,925,1.26,0
+89,Benjamin Jones,benjamin.jones89@example.com,Latin America,15,7890.0,526.0,606,339,1.22,1
+90,Mia Rodriguez,mia.rodriguez90@example.com,Latin America,31,17940.0,578.71,524,438,1.99,1
+91,Isabella Williams,isabella.williams91@example.com,Latin America,51,23835.0,467.35,18,934,1.59,0
+92,Scarlett Moore,scarlett.moore92@example.com,North America,36,29720.0,825.56,314,631,1.63,1
+93,Emma Moore,emma.moore93@example.com,North America,61,38180.0,625.9,6,948,1.87,0
+94,Oliver Davis,oliver.davis94@example.com,Europe,56,35035.0,625.62,43,842,1.93,0
+95,Amelia Thomas,amelia.thomas95@example.com,Latin America,47,38655.0,822.45,0,968,1.41,0
+96,Alexander Gonzalez,alexander.gonzalez96@example.com,North America,62,37845.0,610.4,2,917,1.96,0
+97,Mia Gonzalez,mia.gonzalez97@example.com,North America,60,43445.0,724.08,3,955,1.83,0
+98,Daniel Rodriguez,daniel.rodriguez98@example.com,Latin America,37,31860.0,861.08,289,650,1.63,1
+99,Ava Wilson,ava.wilson99@example.com,Middle East & Africa,62,42045.0,678.15,19,948,1.9,0
+100,Emily Thomas,emily.thomas100@example.com,Europe,49,40605.0,828.67,6,953,1.5,0
+101,Alexander Martinez,alexander.martinez101@example.com,Europe,59,39215.0,664.66,2,958,1.79,0
+102,Emma Jackson,emma.jackson102@example.com,Middle East & Africa,55,34675.0,630.45,3,948,1.69,0
+103,Emma Hernandez,emma.hernandez103@example.com,North America,56,36710.0,655.54,20,937,1.74,0
+104,Emma Jackson,emma.jackson104@example.com,Latin America,54,33005.0,611.2,35,914,1.72,0
+105,Michael Taylor,michael.taylor105@example.com,Europe,15,7520.0,501.33,540,404,1.04,1
+106,Emma Taylor,emma.taylor106@example.com,North America,56,33300.0,594.64,20,898,1.81,0
+107,Mia Williams,mia.williams107@example.com,Middle East & Africa,48,25810.0,537.71,6,942,1.48,0
+108,Oliver Davis,oliver.davis108@example.com,Latin America,6,2560.0,426.67,738,158,0.96,1
+109,Sophia Jackson,sophia.jackson109@example.com,Europe,69,48305.0,700.07,22,922,2.17,0
+110,Liam Martin,liam.martin110@example.com,North America,16,10600.0,662.5,707,254,1.69,1
+111,Abigail Williams,abigail.williams111@example.com,Latin America,50,42930.0,858.6,15,883,1.64,0
+112,Emily Jackson,emily.jackson112@example.com,Middle East & Africa,59,37035.0,627.71,6,960,1.79,0
+113,Michael Hernandez,michael.hernandez113@example.com,Asia-Pacific,60,36140.0,602.33,4,913,1.91,0
+114,Alexander Hernandez,alexander.hernandez114@example.com,Europe,62,39315.0,634.11,2,953,1.89,0
+115,William Gonzalez,william.gonzalez115@example.com,Europe,33,18605.0,563.79,363,557,1.69,1
+116,Emily Martinez,emily.martinez116@example.com,Latin America,46,40555.0,881.63,1,859,1.55,0
+117,Ethan Williams,ethan.williams117@example.com,North America,58,42705.0,736.29,20,889,1.89,0
+118,Benjamin Martin,benjamin.martin118@example.com,Middle East & Africa,58,37210.0,641.55,7,880,1.91,0
+119,Sophia Williams,sophia.williams119@example.com,Middle East & Africa,58,36835.0,635.09,0,945,1.78,0
+120,Alexander Taylor,alexander.taylor120@example.com,Asia-Pacific,75,45935.0,612.47,30,922,2.36,0
